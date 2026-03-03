@@ -96,9 +96,9 @@ const Index = () => {
         <div data-oid="ikPgcLO" className="absolute inset-0 bg-[linear-gradient(120deg,rgba(20,15,10,0.55),rgba(20,15,10,0.25))]" />
         <div data-oid="AwzFwpD" className="relative z-10 mx-auto flex min-h-[100vh] max-w-6xl flex-col justify-center px-6 py-20 text-cream-50">
           <p data-oid="iseA6Yz" className="uppercase tracking-[0.4em] text-xs text-white/70">Maison Duvall</p>
-          <h1 data-oid="TdzJ890" className="mt-6 text-5xl font-light tracking-[0.12em] text-white sm:text-6xl md:text-7xl">A sun-drenched escape in the heart of Provence
+          
 
-          </h1>
+          
           <p data-oid="ZXwfjNH" className="mt-6 max-w-2xl text-lg text-white/80">
             Twelve rooms, one storied villa, and the Côte d’Azur unfolding just beyond the olive groves.
           </p>
